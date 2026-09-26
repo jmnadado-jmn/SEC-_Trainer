@@ -1,0 +1,6 @@
+{
+  "name": "CompTIA Security+ (SY0-701) Exam Trainer & PBQ Simulator",
+  "description": "Comprehensive CompTIA Security+ SY0-701 certification prep with realistic timed exam simulations, interactive Performance-Based Questions (PBQs), domain-focused drills, and granular performance analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
